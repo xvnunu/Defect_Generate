@@ -176,3 +176,12 @@ tags
 
 # wandb
 wandb
+
+# custom
+defect/
+croped_defect/
+croped_scratch_defect/
+diffuser/
+pretrained_model/
+output/
+validation/
